@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dtumos-paratransit-simulation/static/css/main.71418908.css",
+    "main.js": "/dtumos-paratransit-simulation/static/js/main.59fe1b1b.js",
+    "static/js/483.3014d1a7.chunk.js": "/dtumos-paratransit-simulation/static/js/483.3014d1a7.chunk.js",
+    "static/js/787.c0b9ea75.chunk.js": "/dtumos-paratransit-simulation/static/js/787.c0b9ea75.chunk.js",
+    "static/media/legend.png": "/dtumos-paratransit-simulation/static/media/legend.f66e94a82430bc386588.png",
+    "service-worker.js": "/dtumos-paratransit-simulation/service-worker.js",
+    "index.html": "/dtumos-paratransit-simulation/index.html",
+    "main.71418908.css.map": "/dtumos-paratransit-simulation/static/css/main.71418908.css.map",
+    "main.59fe1b1b.js.map": "/dtumos-paratransit-simulation/static/js/main.59fe1b1b.js.map",
+    "483.3014d1a7.chunk.js.map": "/dtumos-paratransit-simulation/static/js/483.3014d1a7.chunk.js.map",
+    "787.c0b9ea75.chunk.js.map": "/dtumos-paratransit-simulation/static/js/787.c0b9ea75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71418908.css",
+    "static/js/main.59fe1b1b.js"
+  ]
+}
