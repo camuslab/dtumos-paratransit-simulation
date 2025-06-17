@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hnu209.github.io/DTUMOS-Disabled-CallTaxi_simulation/",
-  "name": "Disabled-CallTaxi_Simulation",
+  "homepage": "https://camuslab.github.io/dtumos-paratransit-simulation/",
+  "name": "DTUMOS-Paratransit-Simulation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

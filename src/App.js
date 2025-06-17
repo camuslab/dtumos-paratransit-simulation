@@ -9,7 +9,7 @@ import './css/app.css';
 
 
 const getRestData = dataName => {
-  const res = axios.get(`https://raw.githubusercontent.com/HNU209/DTUMOS-Disabled-CallTaxi_simulation/main/src/data/${dataName}.json`);
+  const res = axios.get(`https://raw.githubusercontent.com/camuslab/dtumos-paratransit-simulation/main/src/data/${dataName}.json`);
   // const res = axios.get(`./data/${dataName}.json`);
   const result = res.then(r => r.data);
   return result;
